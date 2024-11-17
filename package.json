@@ -1,6 +1,6 @@
 {
   "name": "octokit-auth-octotask",
-  "version": "0.0.0-development",
+  "version": "3.0.2",
   "type": "module",
   "description": "Octokit authentication strategy that supports token, app (JWT), and event-based installation authentication",
   "main": "index.js",
